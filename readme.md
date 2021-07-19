@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pdmatsaliev20&label=Profile%20views&color=0e75b6&style=flat" alt="pdmatsaliev20" /> </p>
 
-- 🔭 I’m currently working on **improving myself**
+-【🔭】I’m currently working on【**improving myself**】
 
-- 🌱 I’m currently learning **JavaScript**
+-【🌱】I’m currently learning【**JavaScript**】
 
-- 💡I’m interested in 『🖥️Web Developing, Front-end🖥️』
+-【💡】I’m interested in【🖥️Web Developing, Front-end🖥️】
 
-- 📫 How to reach me **PDMatsaliev20@codingburgas.bg**
+-【📫】 How to reach me【**PDMatsaliev20@codingburgas.bg**】
 
 
 <h3 align="left">Languages and Tools:</h3>
