@@ -9,7 +9,7 @@
 
 -【💡】I’m interested in【🖥️Web Developing, Front-end🖥️】
 
--【📫】 How to reach me【**PDMatsaliev20@codingburgas.bg**】
+-【📫】How to reach me【**PDMatsaliev20@codingburgas.bg**】
 
 
 <h3 align="left">Languages and Tools:</h3>
