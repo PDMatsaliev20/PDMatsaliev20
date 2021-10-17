@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @PDMatsaliev20</h1>
+<h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">Enthusiastic Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pdmatsaliev20&label=Profile%20views&color=0e75b6&style=flat" alt="pdmatsaliev20" /> </p>
