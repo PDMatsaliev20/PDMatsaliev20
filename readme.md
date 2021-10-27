@@ -21,7 +21,7 @@
 
 <hr>
 
-<img align="right" height="230" width="320" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" data-canonical-src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" style="max-width: 100%;">
+<img align="right" height="220" width="300" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" data-canonical-src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" style="max-width: 100%;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdmatsaliev20&show_icons=true&locale=en" alt="pdmatsaliev20" /></p>
 
