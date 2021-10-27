@@ -7,7 +7,7 @@
 
 -【🌱】I’m currently learning【**JavaScript**】
 
--【💡】I’m interested in【🖥️Web Developing, Front-end🖥️】
+-【💡】I’m interested in【🖥️Web Developing, Front-end and Back-end🖥️】
 
 -【📫】How to reach me【**PDMatsaliev20@codingburgas.bg**】
 
