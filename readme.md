@@ -1,52 +1,21 @@
-<h1 align="center">Hi 👋, I'm Petar</h1>
-
-## 📖 Introduction
-
-```cpp
-#include <iostream>
-#include <string>
-
-using namespace std;
-
-#define SIZE 20
-
-struct Person_Data
-{
-    char Name[SIZE] = "Petar Matsaliev";
-    int Age = 16;
-    string School = "VSCPI";
-    string Language_Tools[SIZE] = {"C++ ", "HTML ",
-                                 "CSS ", "JS "};
-    string Interests = "Back-end & Front-end";
-    string Hobbies[SIZE] = { "Basketball ",
-                             "Card games ",
-                             "Programming"};
-};
-
-int main()
-{
-    cout << "Thanks for dropping by!\n";
-}
-```
-
-
-## 📈 Statistics
-<a href="https://github.com/PDMatsaliev20/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PDMatsaliev20&show_icons=true&theme=radical"/>
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PDMatsaliev20&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
-
-
-## 🧰 Languages and Tools:
+<h3 align="center">Languages:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height= "40" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height= "40" style="vertical-align:top; margin:4px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height= "40" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height= "40" style="vertical-align:top; margin:4px"/>
-<img src="https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png" alt="CSS" height= "40" style="vertical-align:top; margin:4px"/>
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
+<h3 align="center">Currently learning:</h3>
+<p align="center">
+	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+<h3 align="center">Used Tools:</h3>
+<p align="center">
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+	<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
 </p>
